@@ -11,10 +11,9 @@ The store can manage three types of books:
 
 ## ✨ Features
 
--  Add books to the inventory with basic information (ISBN, title, author, year, price).
--  Remove old books based on how many years have passed since publication.
+-  Add books to the inventory with basic information (ISBN, title, year, price).
+-  Remove old books based on specified number of years passed since publication.
 -  Buy a book using its ISBN, and choose how it will be delivered depending on the book type.
--  All outputs are prefixed with: `Quantum book store`.
 
 ---
 
